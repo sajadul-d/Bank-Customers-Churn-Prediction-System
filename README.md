@@ -12,4 +12,7 @@
 
 💡 With the power of machine learning, this system empowers banks to make data-driven decisions and implement effective retention strategies. By accurately predicting customer churn, banks can take proactive measures to retain valuable customers, ensuring long-term success and customer satisfaction.
 
+![Bank Customer Excited](https://github.com/sajadul-d/Bank-Customers-Churn-Prediction-System/assets/76832635/405769b9-67b3-47ff-baa7-1b762c86dafe)
+
+
 #MachineLearning #CustomerRetention #ChurnPrediction #DataAnalysis #BankingIndustry #ProactiveStrategies #CustomerSatisfaction #Profitability
