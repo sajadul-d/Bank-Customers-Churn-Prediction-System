@@ -15,4 +15,9 @@
 ![Bank Customer Excited](https://github.com/sajadul-d/Bank-Customers-Churn-Prediction-System/assets/76832635/405769b9-67b3-47ff-baa7-1b762c86dafe)
 
 
+💡 Let's see the every Model Result with Visualization : 
+
+![Every_Model_Result_in_barplot (1)](https://github.com/sajadul-d/Bank-Customers-Churn-Prediction-System/assets/76832635/67649357-5e00-407e-971f-e3f6f00d93cd)
+
+
 #MachineLearning #CustomerRetention #ChurnPrediction #DataAnalysis #BankingIndustry #ProactiveStrategies #CustomerSatisfaction #Profitability
